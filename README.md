@@ -1,6 +1,18 @@
 # netflix_app
 
-A new Flutter project.
+# The-Future-Netflix-App-Using-Flutter
+"about": {
+		"youtuber":"Abdelilah N'gadi",
+		"email":"A.ngadi@outlook.fr",
+		"description":"Etudiant | Software Engineer",
+		"from": "Morocco",
+		"links":  { 
+			"instagram":"instagram.com/abdelilah.ngadi_",
+			"github":"github.com/Abdelilah27",
+			"linkdin":"linkedin.com/in/abdelilah-ngadi",
+		} ,
+	} ,
+
 
 ## Getting Started
 
