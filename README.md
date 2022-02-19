@@ -7,7 +7,6 @@
 		"description":"Etudiant | Software Engineer",
 		"from": "Morocco",
 		"links":  { 
-			"instagram":"instagram.com/abdelilah.ngadi_",
 			"github":"github.com/Abdelilah27",
 			"linkdin":"linkedin.com/in/abdelilah-ngadi",
 		} ,
