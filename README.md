@@ -4,7 +4,7 @@ This is a Flutter-based app that provides a user interface for the Netflix strea
 
 ## Overview
 
-The Netflix UI App is a fully-featured mobile app designed to provide a seamless and intuitive user experience for the Netflix streaming service. With this app, users can easily browse the catalog of movies and TV shows available on Netflix, search for specific titles, and start watching content directly from their mobile device.
+The Netflix UI App is a fully-featured mobile app designed to provide a seamless and intuitive user experience for the Netflix streaming service. With this app, users can easily browse the catalog of movies and TV shows available on Netflix, search for specific titles.
 Speed Code Link: https://www.youtube.com/watch?v=Yavy8DJV_9s
 
 The app is built using the Flutter framework, which allows for fast development and cross-platform compatibility. This means that the app can be easily ported to both Android and iOS devices, without any significant changes to the underlying codebase.
