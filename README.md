@@ -42,7 +42,7 @@ Contributions to the Netflix UI App are always welcome! If you'd like to contrib
 
 ## Contact
 
-If you have any questions or comments about the Netflix UI App, please feel free to contact us at [your email address].
+If you have any questions or comments about the Netflix UI App, please feel free to contact us at A.ngadi@outlook.fr .
 
 
 
